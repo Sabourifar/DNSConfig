@@ -53,7 +53,7 @@ Once running, use the number keys shown in the menu:
 - `9` — enter a custom primary/secondary DNS manually
 - `10` — revert to automatic DNS (DHCP)
 - `11` — flush the DNS cache
-- `12` — full network reset (use if your network is badly misconfigured) — each step is reported individually, so you can see exactly which part of the reset succeeded or failed
+- `12` — full network reset (use if your network is badly misconfigured)
 - `0` — quit
 
 ## 📝 Notes
