@@ -1,6 +1,7 @@
 # 🌐 DNSConfig
 
 A powershell-based DNS management tool for Windows.
+
 ⚡ Switch between well-known DNS providers, configure custom DNS servers, test DNS latency, flush the DNS cache, or reset your network stack entirely — all from one interactive menu.
 
 ## ✨ Features
