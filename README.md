@@ -48,13 +48,13 @@ That one-time setup step is what makes step 2 always work cleanly, with no error
 
 Once running, use the number keys shown in the menu:
 
-- `[1]`–`[7]` — instantly switch to that DNS provider
-- `[8]` — test latency of every provider (green ✓ for OK, red ✗ for timeout)
-- `[9]` — enter a custom primary/secondary DNS manually
-- `[10]` — revert to automatic DNS (DHCP)
-- `[11]` — flush the DNS cache
-- `[12]` — full network reset (use if your network is badly misconfigured) — each step is reported individually, so you can see exactly which part of the reset succeeded or failed
-- `[0]` — quit
+- `1`–`7` — instantly switch to that DNS provider
+- `8` — test latency of every provider (green ✓ for OK, red ✗ for timeout)
+- `9` — enter a custom primary/secondary DNS manually
+- `10` — revert to automatic DNS (DHCP)
+- `11` — flush the DNS cache
+- `12` — full network reset (use if your network is badly misconfigured) — each step is reported individually, so you can see exactly which part of the reset succeeded or failed
+- `0` — quit
 
 ## 📝 Notes
 
