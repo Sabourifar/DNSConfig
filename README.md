@@ -36,13 +36,11 @@ No admin rights needed — this only affects your own user account, not the whol
 
 ### 2️⃣ Running it
 
-1. 📥 Download `DNSConfig.ps1` from the [Releases](../../releases) page into any folder — you only need to do this once (or again later to grab an update).
-2. ▶️ Right-click it → **Run with PowerShell**. Do this any time you want to open the tool — no need to re-download.
+1. 📥 Download latest version of `DNSConfig.ps1` from the [Releases](../../releases) page into any folder — you only need to do this once (or again later to grab an update).
+2. ▶️ Right-click it → **Run with PowerShell**. Do this any time you want to open the tool.
 3. ✅ Approve the UAC prompt — the tool needs administrator rights to change network settings.
 
 That one-time setup step is what makes step 2 always work cleanly, with no errors or prompts, every time you run it. 🎉
-
-**Note:** This tool must be downloaded and run as a local file. It will refuse to run if launched via a one-liner like `irm <url> | iex`, since that pattern breaks the self-elevation step and isn't a safe way to run an admin script that rewrites your network configuration anyway.
 
 ## 🎮 Usage
 
