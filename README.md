@@ -36,7 +36,7 @@ No admin rights needed — this only affects your own user account, not the whol
 
 ### 2️⃣ Running it
 
-1. 📥 Download latest version of `DNSConfig.ps1` from the [Releases](../../releases) page into any folder — you only need to do this once (or again later to grab an update).
+1. 📥 Download latest version of `DNSConfig.ps1` from the [Releases](../../releases) page into any folder.
 2. ▶️ Right-click it → **Run with PowerShell**. Do this any time you want to open the tool.
 3. ✅ Approve the UAC prompt — the tool needs administrator rights to change network settings.
 
