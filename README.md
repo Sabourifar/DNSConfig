@@ -1,6 +1,6 @@
 # 🌐 DNSConfig
 
-A practical PowerShell utility for DNS switching (IPv4 & IPv6), resolver benchmarking, adapter management, and streamlined Windows network troubleshooting.
+PowerShell utility for IPv4/IPv6 DNS switching, benchmarking, and network troubleshooting.
 
 ⚡ Switch between 20 well-known DNS providers, configure custom dual-stack DNS servers, benchmark latency, manage network adapters, flush the DNS cache, or reset your network stack entirely — all from one interactive, color-coded dashboard.
 
